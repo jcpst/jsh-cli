@@ -1,0 +1,26 @@
+{
+  "name": "sh-cli",
+  "version": "0.0.1",
+  "description": "Wrapper to use shelljs on the command line",
+  "bin": {
+    "jsh": "index.js"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcpst/sh-cli.git"
+  },
+  "keywords": [
+    "shelljs",
+    "cli"
+  ],
+  "author": "Joseph Post",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jcpst/sh-cli/issues"
+  },
+  "homepage": "https://github.com/jcpst/sh-cli#readme",
+  "dependencies": {
+    "shelljs": "^0.5.3"
+  }
+}
