@@ -1,6 +1,6 @@
 {
   "name": "jsh-cli",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Wrapper to use shelljs on the command line",
   "bin": {
     "jsh": "index.js"
@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/jcpst/sh-cli#readme",
   "dependencies": {
+    "colors": "^1.1.2",
     "shelljs": "^0.5.3"
   }
 }
