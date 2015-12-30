@@ -6,6 +6,4 @@ Tiny wrapper to use shell.js in `package.json` scripts.
 
 	jsh <cmd> [args]
 
-Shell.js docs:
-
-<Docs: http://shelljs.org/>
+Shell.js docs: <http://shelljs.org/>
