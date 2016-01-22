@@ -2,7 +2,7 @@
   "name": "jsh-cli",
   "version": "0.1.3",
   "description": "Wrapper to use shelljs on the command line",
-  "engines": { "node": ">=5.0" },
+  "engines": { "node": ">=0.12" },
   "bin": { "jsh": "index.js" },
   "main": "index.js",
   "dependencies": {
