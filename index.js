@@ -5,7 +5,7 @@ var EOL = require('os').EOL
 
 var args = process.argv.slice(3)
 var cmd = process.argv.slice(2, 3)[0]
-var docs = function() {
+var docs = function () {
   console.log('usage: jsh <cmd> [args]')
   console.log('Docs: http://shelljs.org/')
 }
